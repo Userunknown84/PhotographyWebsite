@@ -1,1 +1,1 @@
-prin("Helllo World!!
+print("Helllo World!!")
